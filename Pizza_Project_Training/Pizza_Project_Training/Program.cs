@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections.Generic;
 
 namespace Pizza_Project_Training
 {
@@ -6,7 +7,8 @@ namespace Pizza_Project_Training
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            var orderPizza = new PizzaStore();
+            orderPizza.OrderPizza();
         }
     }
 }
