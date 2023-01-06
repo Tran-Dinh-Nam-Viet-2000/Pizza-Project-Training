@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Pizza_Project_Training/1.0.0": {
+        "runtime": {
+          "Pizza_Project_Training.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Pizza_Project_Training/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

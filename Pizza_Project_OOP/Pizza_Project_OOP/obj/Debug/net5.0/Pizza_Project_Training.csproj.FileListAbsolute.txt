@@ -1,0 +1,16 @@
+C:\Users\Admin\source\repos\Pizza-Project-Training\Pizza_Project_OOP\Pizza_Project_OOP\bin\Debug\net5.0\Pizza_Project_Training.exe
+C:\Users\Admin\source\repos\Pizza-Project-Training\Pizza_Project_OOP\Pizza_Project_OOP\bin\Debug\net5.0\Pizza_Project_Training.deps.json
+C:\Users\Admin\source\repos\Pizza-Project-Training\Pizza_Project_OOP\Pizza_Project_OOP\bin\Debug\net5.0\Pizza_Project_Training.runtimeconfig.json
+C:\Users\Admin\source\repos\Pizza-Project-Training\Pizza_Project_OOP\Pizza_Project_OOP\bin\Debug\net5.0\Pizza_Project_Training.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\Pizza-Project-Training\Pizza_Project_OOP\Pizza_Project_OOP\bin\Debug\net5.0\Pizza_Project_Training.dll
+C:\Users\Admin\source\repos\Pizza-Project-Training\Pizza_Project_OOP\Pizza_Project_OOP\bin\Debug\net5.0\ref\Pizza_Project_Training.dll
+C:\Users\Admin\source\repos\Pizza-Project-Training\Pizza_Project_OOP\Pizza_Project_OOP\bin\Debug\net5.0\Pizza_Project_Training.pdb
+C:\Users\Admin\source\repos\Pizza-Project-Training\Pizza_Project_OOP\Pizza_Project_OOP\obj\Debug\net5.0\Pizza_Project_Training.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\Pizza-Project-Training\Pizza_Project_OOP\Pizza_Project_OOP\obj\Debug\net5.0\Pizza_Project_Training.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\Pizza-Project-Training\Pizza_Project_OOP\Pizza_Project_OOP\obj\Debug\net5.0\Pizza_Project_Training.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\Pizza-Project-Training\Pizza_Project_OOP\Pizza_Project_OOP\obj\Debug\net5.0\Pizza_Project_Training.AssemblyInfo.cs
+C:\Users\Admin\source\repos\Pizza-Project-Training\Pizza_Project_OOP\Pizza_Project_OOP\obj\Debug\net5.0\Pizza_Project_Training.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Pizza-Project-Training\Pizza_Project_OOP\Pizza_Project_OOP\obj\Debug\net5.0\Pizza_Project_Training.dll
+C:\Users\Admin\source\repos\Pizza-Project-Training\Pizza_Project_OOP\Pizza_Project_OOP\obj\Debug\net5.0\ref\Pizza_Project_Training.dll
+C:\Users\Admin\source\repos\Pizza-Project-Training\Pizza_Project_OOP\Pizza_Project_OOP\obj\Debug\net5.0\Pizza_Project_Training.pdb
+C:\Users\Admin\source\repos\Pizza-Project-Training\Pizza_Project_OOP\Pizza_Project_OOP\obj\Debug\net5.0\Pizza_Project_Training.genruntimeconfig.cache

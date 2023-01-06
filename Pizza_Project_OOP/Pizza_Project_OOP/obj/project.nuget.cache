@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "SpAymN0hXyxoh0c2ooi1pmapDcmfs6JGBUcj9/h0h00og3yTuWj2klFm6Xcbt/HVjdvxDlNAx6MGJCn0kYYYsg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Admin\\source\\repos\\Pizza-Project-Training\\Pizza_Project_OOP\\Pizza_Project_OOP\\Pizza_Project_Training.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.15\\microsoft.netcore.app.host.win-x64.5.0.15.nupkg.sha512"
+  ],
+  "logs": []
+}
